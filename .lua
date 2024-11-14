@@ -8,8 +8,8 @@ getgenv().Configs = {
     ["Click Time"] = 0.1,
     ["Bypass TP"] = true,
     ["Chat"] = {
-        ["Enable"] = false,
-        ["Message"] = {"made by DarkRel"}, -- Input your message here
+        ["Enable"] = true,
+        ["Message"] = {"add thienthanbansungnuoc now", "gg kid", "ez", "no skill bro"}, -- Input your message here
     },
     ["Run When Low Health"] = {
         ["Enable"] = true,
